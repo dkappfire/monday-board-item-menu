@@ -1,3 +1,17 @@
+# Steps to test the feature in monday environment
+1. clone the repo
+2. in project root folder run `npm install` to install the dependencies
+3. `npm start`. It will open application at http://localhost:3000
+4. create a monday app
+5. create "Board item menu" feature for the app
+6. select the shape of the feature, it can be anything from the dropdown option
+7. in feature build give this url - http://localhost:3000 and save
+8. create a sample board or use existing board
+9. try to open the feature. You should see the feature modal going out of screen
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/d2a11bf8-bf03-4378-b8f4-aaad900a52d3">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
